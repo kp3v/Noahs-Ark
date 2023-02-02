@@ -7,3 +7,4 @@ donkey	Cisco IOS in a Nutshell	2005	Boney, James	STF
 crab	Practical Statistics	2020	Gedek, Peter	STF
 oryx 	Writing Word Macros	1999	Roman, Steven	STF
 bass Learning the bash Shell: unix shell programming (in a nutshell) 2005 Newham, Cameron NJG
+african tent tortoise Class Shell Scripting 2005 Robbins, Arnold H.F. BeeBe, Nelson JEV
